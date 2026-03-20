@@ -10,9 +10,9 @@ const HeroSection = () => {
       </div>
 
       <div className="relative z-10 text-center max-w-4xl mx-auto px-6">
-        <p className="section-label mb-6">Cinematic Storytelling</p>
-        <h1 className="font-serif text-4xl md:text-6xl lg:text-7xl tracking-tight leading-[1.1] text-foreground mb-8" style={{ textWrap: 'balance' }}>
-          CAPTURING YOUR MOMENTS INTO STORIES YOU'LL TREASURE FOREVER
+        <p className="font-extrabold section-label mb-6">Cinematic Storytelling</p>
+        <h1 className="font-serif text-3xl md:text-6xl lg:text-3xl tracking-wider leading-[1.1] text-foreground mb-8">
+          CAPTURING YOUR MOMENTS INTO STORIES YOU'LL<br /> TREASURE FOREVER
         </h1>
         <p className="body-text max-w-xl mx-auto mb-12">
           We craft visual narratives that capture emotion, preserve moments, and move audiences.
